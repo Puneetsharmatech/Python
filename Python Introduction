@@ -47,3 +47,24 @@ Hello-future-Python-programmer !
 
 
 
+
+
+
+
+
+Literals
+
+A literals is data which values are determined by literals. e:g string "hello world", number 20 etc.
+In python we have four types of literals.
+1.Integers e:g 1, 345  
+1.a octal numbers e:g 0o123 for here base is 8
+1.b hexadecimal numbers e:g 0x123 in this base is 16
+2.floating point number e:g 45.3, -56.2
+3.strings e:g "hello", 'hello'
+4.booleans e:g TRUE(1) or FALSE(0)
+
+
+
+
+
+
