@@ -68,3 +68,21 @@ In python we have four types of literals.
 
 
 
+
+Operators
+
+Python has seven types of airthmetic operators;
+
+Add     +
+Subtract -
+Multiply *
+Divide  /  it return value in float
+Floor Divide //  in return value in float if given number's output will not in float. also it round off the value in float
+Modulo  %  with this, we can caluclate remainder after division
+Exponential  **
+
+
+
+
+
+
