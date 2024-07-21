@@ -1,0 +1,49 @@
+Print function:   Print("hello world");
+   in this syntax, value between quotes ("") called string.
+   in this print is function. Function is a part of code that used to cause an error or evaluate value. we have python built in function and we can create.
+
+Function Execution in python:
+
+1. Checks function name
+2. check arguments passed
+3. jumps code into function
+4. Execute the function
+5. Returns your code 
+6. Resume execution 
+
+
+Print("hello world \n  hello to all world"); 
+output: hello world
+        hello to world
+in this case \n means new line. this prints as a new line
+
+
+If we pass multiple argument like 
+»>> print ("Hello", "future", "Python", "programmer!" )
+Hello future Python programmer!
+it combine all 
+
+
+>>>
+print ("Hello!", end="");\
+print("Python is a great language")
+Hello!Python is a great language
+
+in above syntax end="" combine both lines with define string.
+>>>
+print ("Hello!", end="!");\
+print("Python is a great language")
+Hello!! Python is a great language
+>>> print （"Hello！"， end="
+... print("Python is a great language")
+Hello!"Python is a great language
+
+
+Another arguement is sep=""
+it will seprate every string with define string, number etc.
+>>>
+print ("Hello", "future", "Python", "programmer!", sep="-");
+Hello-future-Python-programmer !
+
+
+
