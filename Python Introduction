@@ -122,6 +122,21 @@ what is your age23
 
 String methods
 
+with + operator you can use for concatenate string
+print("my"+" "+ "name");
+output>>>>> my name
+
+with  * operator  you can repeat the string;
+
+print("ha"*10);
+output>>>>>>>> hahahahahahahahahaha
+
+with str function we can case numeric value into string.
+
+
+
+
+
 
 
 
