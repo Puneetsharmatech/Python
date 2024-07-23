@@ -85,4 +85,45 @@ Exponential  **
 
 
 
+Inputs:
+The input() function in Python is used to take input from the user. It reads a line of text from the standard input (usually the keyboard), converts it to a string, and returns it.
+Example of input function:
+name = input("what is your name");
+Output:>>>> what is your name 
+here you can enter your name. when ever you call name function it will display your name;
+print(name);
+Input function always works strings 
+
+if you w>>> age = input("how old are you?")
+how old are you?23
+>>> print(age - 10);
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+>>> ant to work with intergers than you have to use integer function;
+
+to solve this use int() function:
+>>> age = input("what is your age");
+what is your age23
+>>> print(int(age)- 10)
+13
+
+• Prompts the user to input some data from the console
+• It accepts an optional parameter that can be used in order to write a message before the user input
+• Always returns a string
+• A program that doesn't use any input function, is called a deaf program
+
+
+
+
+
+
+
+
+String methods
+
+
+
+
+
 
